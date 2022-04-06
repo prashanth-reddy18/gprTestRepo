@@ -1,0 +1,5 @@
+English - 81
+Hindi   - 88
+Maths   - 80
+Science - 20
+Social  - 90
